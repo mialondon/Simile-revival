@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/api/scripts/ui/facets
+END
+hierarchical-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/api/scripts/ui/facets/hierarchical-facet.js
+END
+image-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/api/scripts/ui/facets/image-facet.js
+END
+slider.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/api/scripts/ui/facets/slider.js
+END
+slider-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/api/scripts/ui/facets/slider-facet.js
+END
+cloud-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/api/scripts/ui/facets/cloud-facet.js
+END
+text-search-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/api/scripts/ui/facets/text-search-facet.js
+END
+date-picker-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/api/scripts/ui/facets/date-picker-facet.js
+END
+date-util.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/api/scripts/ui/facets/date-util.js
+END
+date-picker.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/api/scripts/ui/facets/date-picker.js
+END
+list-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/api/scripts/ui/facets/list-facet.js
+END
+numeric-range-facet.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/api/scripts/ui/facets/numeric-range-facet.js
+END

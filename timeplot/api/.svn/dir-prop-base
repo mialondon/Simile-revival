@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 75
+1.0 http://simile-widgets.googlecode.com/svn/timeplot/trunk/src/webapp/api
+
+END

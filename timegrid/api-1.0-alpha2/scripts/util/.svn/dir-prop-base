@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 57
+dstructs http://simile.mit.edu/repository/dstructs/trunk
+
+END

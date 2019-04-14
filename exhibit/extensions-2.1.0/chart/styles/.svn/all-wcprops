@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/extensions/chart/styles
+END
+scatter-plot-view.css
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/extensions/chart/styles/scatter-plot-view.css
+END
+bar-chart-view.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/extensions/chart/styles/bar-chart-view.css
+END
+pivot-table-view.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1685/exhibit/tags/2.1.0/src/webapp/extensions/chart/styles/pivot-table-view.css
+END

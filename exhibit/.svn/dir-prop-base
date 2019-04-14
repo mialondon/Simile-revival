@@ -1,0 +1,12 @@
+K 13
+svn:externals
+V 647
+api http://simile-widgets.googlecode.com/svn/exhibit/branches/1.x/src/webapp/api/
+api-2.0 http://simile-widgets.googlecode.com/svn/exhibit/tags/2.0-api-on-static-simile/src/webapp/api/
+api-2.1.0 http://simile-widgets.googlecode.com/svn/exhibit/tags/2.1.0/src/webapp/api/
+extensions-2.0 -r1685 http://simile-widgets.googlecode.com/svn/exhibit/trunk/src/webapp/extensions/
+extensions-2.1.0 http://simile-widgets.googlecode.com/svn/exhibit/tags/2.1.0/src/webapp/extensions/
+api-dev http://simile-widgets.googlecode.com/svn/exhibit/trunk/src/webapp/api/
+extensions-dev http://simile-widgets.googlecode.com/svn/exhibit/trunk/src/webapp/api/extensions/
+
+END

@@ -1,0 +1,7 @@
+K 13
+svn:externals
+V 136
+maps http://simile.mit.edu/repository/graphics/trunk/release/maps/
+logos http://simile.mit.edu/repository/graphics/trunk/release/logos/
+
+END

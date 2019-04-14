@@ -1,0 +1,8 @@
+K 13
+svn:externals
+V 265
+api http://simile-widgets.googlecode.com/svn/timegrid/trunk/src/webapp/api
+api-1.0-alpha http://simile-widgets.googlecode.com/svn/timegrid/tags/1.0-alpha/src/webapp/api
+api-1.0-alpha2 http://simile-widgets.googlecode.com/svn/timegrid/tags/1.0-alpha2/src/webapp/api
+
+END
